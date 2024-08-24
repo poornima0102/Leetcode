@@ -8,7 +8,7 @@ public:
         if(idx>9){
            return;
         }
-        if(sum>=idx && k!=0){
+        if(sum>=idx){
             output.push_back(idx);
            solve(k-1,sum-idx,output,ans,idx+1);
            output.pop_back();
