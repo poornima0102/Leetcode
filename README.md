@@ -11,6 +11,7 @@ DSA Problems
 | [0039-combination-sum](https://github.com/poornima0102/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornima0102/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/poornima0102/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,5 +61,10 @@ DSA Problems
 | ------- |
 | [0039-combination-sum](https://github.com/poornima0102/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
