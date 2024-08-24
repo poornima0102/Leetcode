@@ -8,13 +8,12 @@ public:
         if(idx>9){
            return;
         }
-          solve(k,sum,output,ans,idx+1);
         if(sum>=idx && k!=0){
             output.push_back(idx);
            solve(k-1,sum-idx,output,ans,idx+1);
            output.pop_back();
         }
-         
+           solve(k,sum,output,ans,idx+1);
         
     }
     vector<vector<int>> combinationSum3(int k, int n) {
