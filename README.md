@@ -10,6 +10,7 @@ DSA Problems
 | [0027-remove-element](https://github.com/poornima0102/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/poornima0102/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/poornima0102/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornima0102/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -63,6 +64,7 @@ DSA Problems
 | ------- |
 | [0039-combination-sum](https://github.com/poornima0102/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/poornima0102/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/poornima0102/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
