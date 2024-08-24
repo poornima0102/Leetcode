@@ -53,6 +53,7 @@ DSA Problems
 | ------- |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -64,10 +65,15 @@ DSA Problems
 | [0040-combination-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/poornima0102/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/poornima0102/Leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
