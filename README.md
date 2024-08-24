@@ -14,6 +14,7 @@ DSA Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/poornima0102/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/poornima0102/Leetcode/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,8 @@ DSA Problems
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
