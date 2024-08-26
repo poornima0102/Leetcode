@@ -49,12 +49,14 @@ DSA Problems
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/poornima0102/Leetcode/tree/master/0189-rotate-array) |
+| [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -78,4 +80,8 @@ DSA Problems
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
