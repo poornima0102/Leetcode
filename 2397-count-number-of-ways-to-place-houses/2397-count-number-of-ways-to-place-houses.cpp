@@ -22,3 +22,10 @@ public:
         return (1LL * ans * ans) % MOD; // Square the result and apply modulo
     }
 };
+//1LL: A literal representing the number 1 as a long long integer.
+//Purpose: To ensure arithmetic operations are performed using long long to prevent overflow
+// and handle large values correctly.
+
+
+//Why multiplication? Because for every configuration on Side A, you can pair it with any configuration on Side B.
+// This is the principle of independent events in combinatorics.
