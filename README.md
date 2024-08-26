@@ -57,6 +57,7 @@ DSA Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/poornima0102/Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 ## Greedy
 |  |
 | ------- |
