@@ -12,6 +12,7 @@ DSA Problems
 | [0040-combination-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/poornima0102/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/poornima0102/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/poornima0102/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/poornima0102/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/poornima0102/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ DSA Problems
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/poornima0102/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -89,4 +91,8 @@ DSA Problems
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/poornima0102/Leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
