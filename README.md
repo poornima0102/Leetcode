@@ -22,6 +22,7 @@ DSA Problems
 | [0169-majority-element](https://github.com/poornima0102/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/poornima0102/Leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ DSA Problems
 | [0064-minimum-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/poornima0102/Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 ## Greedy
@@ -98,4 +100,5 @@ DSA Problems
 | ------- |
 | [0063-unique-paths-ii](https://github.com/poornima0102/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
