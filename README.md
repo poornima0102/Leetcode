@@ -24,6 +24,7 @@ DSA Problems
 | [0189-rotate-array](https://github.com/poornima0102/Leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/poornima0102/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/poornima0102/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
@@ -68,6 +69,7 @@ DSA Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornima0102/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/poornima0102/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/poornima0102/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/poornima0102/Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
@@ -86,6 +88,7 @@ DSA Problems
 | [0090-subsets-ii](https://github.com/poornima0102/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/poornima0102/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
