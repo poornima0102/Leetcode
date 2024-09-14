@@ -122,4 +122,8 @@ DSA Problems
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/poornima0102/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/poornima0102/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
