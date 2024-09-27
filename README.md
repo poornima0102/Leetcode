@@ -26,6 +26,7 @@ DSA Problems
 | [0416-partition-equal-subset-sum](https://github.com/poornima0102/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/poornima0102/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@ DSA Problems
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -156,6 +158,7 @@ DSA Problems
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -166,6 +169,7 @@ DSA Problems
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -179,4 +183,12 @@ DSA Problems
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
