@@ -53,6 +53,7 @@ DSA Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/poornima0102/Leetcode/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +82,7 @@ DSA Problems
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
+| [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Backtracking
 |  |
@@ -144,6 +146,7 @@ DSA Problems
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -153,6 +156,7 @@ DSA Problems
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +166,7 @@ DSA Problems
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +174,7 @@ DSA Problems
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
