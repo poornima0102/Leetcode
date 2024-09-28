@@ -144,6 +144,7 @@ DSA Problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/poornima0102/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornima0102/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -173,6 +174,7 @@ DSA Problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/poornima0102/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornima0102/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -191,6 +193,7 @@ DSA Problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/poornima0102/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -203,6 +206,7 @@ DSA Problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/poornima0102/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornima0102/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
