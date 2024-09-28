@@ -25,9 +25,7 @@ TreeNode* helper(vector<int>& preorder, int &preStart,
                 // Find the index of the current root value in the inorder traversal
                 int inRoot = inMap[root->val];
                 
-                // Calculate the number of
-                // elements in the left subtree
-                int numsLeft = inRoot - inStart;
+                // Calculate the number of elements in the left subtree
                 
                 // Recursively build the left subtree
                 root->left = helper(preorder, preStart, inorder, inStart, inRoot - 1, inMap);
