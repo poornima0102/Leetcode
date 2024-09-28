@@ -144,6 +144,7 @@ DSA Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornima0102/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -169,6 +170,7 @@ DSA Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/poornima0102/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -182,6 +184,7 @@ DSA Problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -196,6 +199,7 @@ DSA Problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
