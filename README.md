@@ -71,6 +71,7 @@ DSA Problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/poornima0102/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/poornima0102/Leetcode/tree/master/0189-rotate-array) |
 | [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
