@@ -26,7 +26,7 @@ public:
         allPaths(root->left,targetSum-root->val,ans,path);
         
         allPaths(root->right,targetSum-root->val,ans,path);
-        path.pop_back();
+        
         
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
