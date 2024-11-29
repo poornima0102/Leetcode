@@ -28,6 +28,7 @@ DSA Problems
 | [0416-partition-equal-subset-sum](https://github.com/poornima0102/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/poornima0102/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/poornima0102/Leetcode/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/poornima0102/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -48,6 +49,7 @@ DSA Problems
 | [0088-merge-sorted-array](https://github.com/poornima0102/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/poornima0102/Leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/poornima0102/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/poornima0102/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@ DSA Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/poornima0102/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/poornima0102/Leetcode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/poornima0102/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/poornima0102/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
