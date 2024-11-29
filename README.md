@@ -10,6 +10,7 @@ DSA Problems
 | [0027-remove-element](https://github.com/poornima0102/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/poornima0102/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/poornima0102/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/poornima0102/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/poornima0102/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/poornima0102/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -54,6 +55,7 @@ DSA Problems
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/poornima0102/Leetcode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/poornima0102/Leetcode/tree/master/0169-majority-element) |
