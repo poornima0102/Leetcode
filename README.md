@@ -33,6 +33,7 @@ DSA Problems
 | [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/poornima0102/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ DSA Problems
 | [0189-rotate-array](https://github.com/poornima0102/Leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/poornima0102/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/poornima0102/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +54,7 @@ DSA Problems
 | [0435-non-overlapping-intervals](https://github.com/poornima0102/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poornima0102/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/poornima0102/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -199,6 +202,7 @@ DSA Problems
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/poornima0102/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
 | ------- |
