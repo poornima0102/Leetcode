@@ -18,8 +18,8 @@ public:
             ans.push_back(path);
             return;
         }
-        path += to_string(root->val); 
-        path=path+"->";
+        path += to_string(root->val)+"->"; 
+       
         allPaths(root->left,ans,path);
         allPaths(root->right,ans,path);
     }
