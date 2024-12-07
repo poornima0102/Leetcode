@@ -120,6 +120,7 @@ DSA Problems
 | [0113-path-sum-ii](https://github.com/poornima0102/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/poornima0102/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/poornima0102/Leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -131,6 +132,7 @@ DSA Problems
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/poornima0102/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/poornima0102/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/poornima0102/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Memoization
 |  |
@@ -186,6 +188,7 @@ DSA Problems
 | [0199-binary-tree-right-side-view](https://github.com/poornima0102/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/poornima0102/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -227,6 +230,7 @@ DSA Problems
 | [0199-binary-tree-right-side-view](https://github.com/poornima0102/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/poornima0102/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -251,6 +255,7 @@ DSA Problems
 | [0199-binary-tree-right-side-view](https://github.com/poornima0102/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/poornima0102/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
