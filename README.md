@@ -65,6 +65,7 @@ DSA Problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/poornima0102/Leetcode/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 ## Divide and Conquer
@@ -195,6 +196,7 @@ DSA Problems
 | [0543-diameter-of-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -238,6 +240,7 @@ DSA Problems
 | [0543-diameter-of-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -262,6 +265,7 @@ DSA Problems
 | [0437-path-sum-iii](https://github.com/poornima0102/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/poornima0102/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -274,6 +278,7 @@ DSA Problems
 | [0112-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/poornima0102/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
