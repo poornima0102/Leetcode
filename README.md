@@ -35,6 +35,7 @@ DSA Problems
 | [0967-minimum-falling-path-sum](https://github.com/poornima0102/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/poornima0102/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/poornima0102/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/poornima0102/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ DSA Problems
 | [0287-find-the-duplicate-number](https://github.com/poornima0102/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/poornima0102/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/poornima0102/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/poornima0102/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/poornima0102/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -70,6 +72,7 @@ DSA Problems
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/poornima0102/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/poornima0102/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/poornima0102/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
 | ------- |
